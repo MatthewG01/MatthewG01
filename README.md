@@ -1,4 +1,4 @@
-First Year Computer Science student studying at NTU.
+Second Year Computer Science student studying at NTU.
 
 BCS Student Member
 
